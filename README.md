@@ -167,15 +167,19 @@ I believe that consistent practice, real-world projects, problem solving, and co
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanmh9988770-MHR&show_icons=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmh9988770-MHR&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=CodesByHasan&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByHasan&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasanmh9988770-MHR&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=CodesByHasan&style=flat-square)
 
 ---
 
