@@ -1,4 +1,5 @@
 <img width="2067" height="761" alt="1000036886" src="https://github.com/user-attachments/assets/6bb08f09-99c0-45c2-9d44-091a3dba8c8e" />
+
 # Hi 👋, I'm Mehedi Hasan
 
 ### 💻 Aspiring Full-Stack Developer | JavaScript Enthusiast | React.js • Next.js • TypeScript | Building Modern Web Applications 🚀
@@ -166,8 +167,6 @@ I believe that consistent practice, real-world projects, problem solving, and co
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasanmh9988770-MHR&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
@@ -180,9 +179,7 @@ I believe that consistent practice, real-world projects, problem solving, and co
 
 ## 👀 Profile Views
 
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=hasanmh9988770-MHR&style=flat-square" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=hasanmh9988770-MHR&style=flat-square)
 
 ---
 
