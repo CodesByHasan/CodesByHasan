@@ -167,13 +167,9 @@ I believe that consistent practice, real-world projects, problem solving, and co
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodesByHasan&show_icons=true&cache_seconds=86400)
 
-<img src="https://github-readme-stats.vercel.app/api?username=CodesByHasan&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByHasan&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByHasan&layout=compact&cache_seconds=86400)
 
 ---
 
