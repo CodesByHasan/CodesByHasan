@@ -1,3 +1,5 @@
+<img width="1767" height="592" alt="My profile" src="https://github.com/user-attachments/assets/1b912ad9-6c35-445d-8a2f-3169a86c4e29" />
+
 # Hi 👋, I'm Mehedi Hasan
 
 ### 💻 Aspiring Full-Stack Developer | JavaScript Enthusiast | React.js • Next.js • TypeScript | Building Modern Web Applications 🚀
